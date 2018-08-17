@@ -10,9 +10,9 @@
  - gaving different roles as a database user (admin and worker)
  - database should be built using fourth normal form
 
-![sample](images/img02.png)
+![sample](images/img02.PNG)
 
-![sample](images/img01.png)
+![sample](images/img01.PNG)
 
 Database was built using PostgreSQL. Interface built using Java.
 
